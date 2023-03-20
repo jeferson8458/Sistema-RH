@@ -10,9 +10,9 @@ Rh Gestão é uma aplicação full stack web construída em React.js e usando um
 A aplicação consiste em em gereciamento de curriculos para assim melhorar
 
 ## Layout web
-![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
+![Login](https://github.com/jeferson8458/sistemarh/blob/main/assents/login.png)
 
-![Web 2](https://github.com/acenelio/assets/raw/main/sds1/web2.png)
+![Painel](https://github.com/jeferson8458/sistemarh/blob/main/assents/painel.png)
 
 # Tecnologias utilizadas
 ## Back end
