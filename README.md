@@ -3,7 +3,7 @@
 
 # Sobre o projeto
 
-https://rh.codespace.net.br/
+Em breve link para demo
 
 Rh Gestão é uma aplicação full stack web construída em React.js e usando uma API RESET.
 
