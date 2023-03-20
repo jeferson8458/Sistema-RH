@@ -6,6 +6,7 @@ import Navbar from '../NavBar/Navbar';
 const Home = () => {
   return (
     <div>
+      gag
       <Navbar />
       <ListCurriculos />
     </div>
