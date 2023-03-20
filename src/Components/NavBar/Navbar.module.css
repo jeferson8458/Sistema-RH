@@ -1,0 +1,49 @@
+.navbar{
+  height: 80px;
+  display: flex;
+  align-items: center;
+  border-bottom: 0.5px solid rgba(230, 227, 227);
+}
+
+.navbar .wrapper{
+  width: 100%;
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.items{
+  display: flex;
+}
+
+.search{
+  width: 25%;
+}
+
+.item {
+  display: flex;
+  align-items: center;
+  margin-right: 20px;
+  position: relative;
+}
+
+.avatar {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+}
+
+.icon {
+  font-size: 20px;
+}
+
+.sair{
+  align-items: center;
+  justify-content: space-between;
+}
+
+.buce{
+  align-items: center;
+  justify-content: space-between;
+}

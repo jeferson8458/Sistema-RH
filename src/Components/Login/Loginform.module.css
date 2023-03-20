@@ -1,0 +1,27 @@
+.container{
+  display: block;
+  margin: 0;
+  margin-top: 30vh;
+  gap: 30px 10px 0;
+  margin-bottom: 2rem;
+}
+.title{
+  font-family: 'Sprectral',georgia;
+  font-size: 2rem;
+  margin: 1rem 0;
+  position: relative;
+  z-index: 1;
+}
+.title::after{
+
+  content: '';
+  display: block;
+  width: 1.1rem;
+  height: 1.1rem;
+  background: #fb1;
+  position: absolute;
+  bottom: 5px;
+  left: -5px;
+  border-radius: 0.2rem;
+  z-index: -1;
+}
